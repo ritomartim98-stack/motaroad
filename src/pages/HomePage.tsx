@@ -104,7 +104,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
       <section className="relative bg-gray-900 text-white">
         <div className="absolute inset-0 overflow-hidden">
           <ImageWithFallback
-            src="https://images.unsplash.com/photo-1636761358757-0a616eb9e17e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb3RvcmN5Y2xlJTIwd29ya3Nob3AlMjBtZWNoYW5pY3xlbnwxfHx8fDE3NjAxMTI5ODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+            src="https://motocrossactionmag.com/pt/segredos-de-velocidade-posi%C3%A7%C3%A3o-do-corpo-a-arte-de-manusear-a-bicicleta/"
             alt="Oficina de Motas"
             className="w-full h-full object-cover opacity-40"
           />
